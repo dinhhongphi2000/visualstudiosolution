@@ -1,0 +1,6 @@
+D:\baitap\visual studio\GroupByLinq\GroupByLinq\bin\Debug\GroupByLinq.exe.config
+D:\baitap\visual studio\GroupByLinq\GroupByLinq\bin\Debug\GroupByLinq.exe
+D:\baitap\visual studio\GroupByLinq\GroupByLinq\bin\Debug\GroupByLinq.pdb
+D:\baitap\visual studio\GroupByLinq\GroupByLinq\obj\Debug\GroupByLinq.csprojResolveAssemblyReference.cache
+D:\baitap\visual studio\GroupByLinq\GroupByLinq\obj\Debug\GroupByLinq.exe
+D:\baitap\visual studio\GroupByLinq\GroupByLinq\obj\Debug\GroupByLinq.pdb

@@ -1,0 +1,6 @@
+D:\baitap\visual studio\WebApplication1\WebClientDownloadAsyn\bin\Debug\WebClientDownloadAsyn.exe.config
+D:\baitap\visual studio\WebApplication1\WebClientDownloadAsyn\bin\Debug\WebClientDownloadAsyn.exe
+D:\baitap\visual studio\WebApplication1\WebClientDownloadAsyn\bin\Debug\WebClientDownloadAsyn.pdb
+D:\baitap\visual studio\WebApplication1\WebClientDownloadAsyn\obj\Debug\WebClientDownloadAsyn.csprojResolveAssemblyReference.cache
+D:\baitap\visual studio\WebApplication1\WebClientDownloadAsyn\obj\Debug\WebClientDownloadAsyn.exe
+D:\baitap\visual studio\WebApplication1\WebClientDownloadAsyn\obj\Debug\WebClientDownloadAsyn.pdb

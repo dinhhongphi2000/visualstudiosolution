@@ -1,0 +1,15 @@
+D:\baitap\visual studio\MigrationsDemo\MigrationsDemo\bin\Debug\MigrationsDemo.exe.config
+D:\baitap\visual studio\MigrationsDemo\MigrationsDemo\bin\Debug\MigrationsDemo.exe
+D:\baitap\visual studio\MigrationsDemo\MigrationsDemo\bin\Debug\MigrationsDemo.pdb
+D:\baitap\visual studio\MigrationsDemo\MigrationsDemo\bin\Debug\EntityFramework.dll
+D:\baitap\visual studio\MigrationsDemo\MigrationsDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\baitap\visual studio\MigrationsDemo\MigrationsDemo\bin\Debug\EntityFramework.xml
+D:\baitap\visual studio\MigrationsDemo\MigrationsDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\baitap\visual studio\MigrationsDemo\MigrationsDemo\obj\Debug\MigrationsDemo.csprojResolveAssemblyReference.cache
+D:\baitap\visual studio\MigrationsDemo\MigrationsDemo\obj\Debug\MigrationsDemo.exe
+D:\baitap\visual studio\MigrationsDemo\MigrationsDemo\obj\Debug\MigrationsDemo.pdb
+D:\baitap\visual studio\MigrationsDemo\MigrationsDemo\obj\Debug\MigrationsDemo.Migrations.InitialCreate.resources
+D:\baitap\visual studio\MigrationsDemo\MigrationsDemo\obj\Debug\MigrationsDemo.csproj.GenerateResource.Cache
+D:\baitap\visual studio\MigrationsDemo\MigrationsDemo\obj\Debug\MigrationsDemo.Migrations.AddBlogUrl.resources
+D:\baitap\visual studio\MigrationsDemo\MigrationsDemo\obj\Debug\MigrationsDemo.Migrations.AddPostClass.resources
+D:\baitap\visual studio\MigrationsDemo\MigrationsDemo\obj\Debug\MigrationsDemo.Migrations.AddPostAbstract.resources

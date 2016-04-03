@@ -1,0 +1,10 @@
+D:\baitap\visual studio\SINHVIEN\Model\bin\Debug\Model.dll.config
+D:\baitap\visual studio\SINHVIEN\Model\bin\Debug\Model.dll
+D:\baitap\visual studio\SINHVIEN\Model\bin\Debug\Model.pdb
+D:\baitap\visual studio\SINHVIEN\Model\bin\Debug\EntityFramework.dll
+D:\baitap\visual studio\SINHVIEN\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\baitap\visual studio\SINHVIEN\Model\bin\Debug\EntityFramework.xml
+D:\baitap\visual studio\SINHVIEN\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\baitap\visual studio\SINHVIEN\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\baitap\visual studio\SINHVIEN\Model\obj\Debug\Model.dll
+D:\baitap\visual studio\SINHVIEN\Model\obj\Debug\Model.pdb

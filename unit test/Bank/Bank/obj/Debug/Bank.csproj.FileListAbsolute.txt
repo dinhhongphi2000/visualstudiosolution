@@ -1,0 +1,5 @@
+D:\baitap\visual studio\unit test\Bank\Bank\bin\Debug\Bank.dll
+D:\baitap\visual studio\unit test\Bank\Bank\bin\Debug\Bank.pdb
+D:\baitap\visual studio\unit test\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+D:\baitap\visual studio\unit test\Bank\Bank\obj\Debug\Bank.dll
+D:\baitap\visual studio\unit test\Bank\Bank\obj\Debug\Bank.pdb

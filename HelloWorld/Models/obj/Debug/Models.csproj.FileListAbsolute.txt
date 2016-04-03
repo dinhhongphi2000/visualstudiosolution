@@ -1,0 +1,12 @@
+D:\baitap\visual studio\HelloWorld\Models\bin\Debug\Models.dll.config
+D:\baitap\visual studio\HelloWorld\Models\bin\Debug\Models.dll
+D:\baitap\visual studio\HelloWorld\Models\bin\Debug\Models.pdb
+D:\baitap\visual studio\HelloWorld\Models\bin\Debug\EntityFramework.dll
+D:\baitap\visual studio\HelloWorld\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\baitap\visual studio\HelloWorld\Models\bin\Debug\EntityFramework.xml
+D:\baitap\visual studio\HelloWorld\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\baitap\visual studio\HelloWorld\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\baitap\visual studio\HelloWorld\Models\obj\Debug\Models.Properties.Resources.resources
+D:\baitap\visual studio\HelloWorld\Models\obj\Debug\Models.csproj.GenerateResource.Cache
+D:\baitap\visual studio\HelloWorld\Models\obj\Debug\Models.dll
+D:\baitap\visual studio\HelloWorld\Models\obj\Debug\Models.pdb

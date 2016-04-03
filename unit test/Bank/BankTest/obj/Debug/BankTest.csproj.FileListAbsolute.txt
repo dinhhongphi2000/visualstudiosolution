@@ -1,0 +1,9 @@
+D:\baitap\visual studio\unit test\Bank\BankTest\bin\Debug\BankTest.dll
+D:\baitap\visual studio\unit test\Bank\BankTest\bin\Debug\BankTest.pdb
+D:\baitap\visual studio\unit test\Bank\BankTest\bin\Debug\Bank.dll
+D:\baitap\visual studio\unit test\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\baitap\visual studio\unit test\Bank\BankTest\bin\Debug\Bank.pdb
+D:\baitap\visual studio\unit test\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\baitap\visual studio\unit test\Bank\BankTest\obj\Debug\BankTest.csprojResolveAssemblyReference.cache
+D:\baitap\visual studio\unit test\Bank\BankTest\obj\Debug\BankTest.dll
+D:\baitap\visual studio\unit test\Bank\BankTest\obj\Debug\BankTest.pdb

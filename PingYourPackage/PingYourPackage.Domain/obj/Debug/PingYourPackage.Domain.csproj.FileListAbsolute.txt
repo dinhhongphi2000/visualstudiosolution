@@ -1,0 +1,14 @@
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.Domain\bin\Debug\PingYourPackage.Domain.dll.config
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.Domain\bin\Debug\PingYourPackage.Domain.dll
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.Domain\bin\Debug\PingYourPackage.Domain.pdb
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.Domain\bin\Debug\EntityFramework.dll
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.Domain\bin\Debug\EntityFramework.xml
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.Domain\obj\Debug\PingYourPackage.Domain.csprojResolveAssemblyReference.cache
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.Domain\obj\Debug\PingYourPackage.Domain.dll
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.Domain\obj\Debug\PingYourPackage.Domain.pdb
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.Domain\obj\Debug\PingYourPackage.Domain.Migrations.Init.resources
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.Domain\obj\Debug\PingYourPackage.Domain.csproj.GenerateResource.Cache
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.Domain\obj\Debug\PingYourPackage.Domain.Migrations.ValidationAttributeChanges.resources
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.Domain\obj\Debug\PingYourPackage.Domain.Migrations.CompleteStructDataBase.resources

@@ -1,0 +1,16 @@
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.API\bin\Debug\PingYourPackage.API.dll.config
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.API\bin\Debug\PingYourPackage.API.dll
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.API\bin\Debug\PingYourPackage.API.pdb
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.API\bin\Debug\Autofac.dll
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.API\bin\Debug\Autofac.Integration.WebApi.dll
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.API\bin\Debug\Newtonsoft.Json.dll
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.API\bin\Debug\System.Net.Http.Formatting.dll
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.API\bin\Debug\System.Web.Http.dll
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.API\bin\Debug\Autofac.xml
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.API\bin\Debug\Autofac.Integration.WebApi.xml
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.API\bin\Debug\Newtonsoft.Json.xml
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.API\bin\Debug\System.Net.Http.Formatting.xml
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.API\bin\Debug\System.Web.Http.xml
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.API\obj\Debug\PingYourPackage.API.csprojResolveAssemblyReference.cache
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.API\obj\Debug\PingYourPackage.API.dll
+D:\baitap\visual studio\PingYourPackage\PingYourPackage.API\obj\Debug\PingYourPackage.API.pdb
